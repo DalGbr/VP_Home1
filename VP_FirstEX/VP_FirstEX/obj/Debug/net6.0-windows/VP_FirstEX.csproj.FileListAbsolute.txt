@@ -1,0 +1,17 @@
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\bin\Debug\net6.0-windows\VP_FirstEX.exe
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\bin\Debug\net6.0-windows\VP_FirstEX.deps.json
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\bin\Debug\net6.0-windows\VP_FirstEX.runtimeconfig.json
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\bin\Debug\net6.0-windows\VP_FirstEX.dll
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\bin\Debug\net6.0-windows\VP_FirstEX.pdb
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\obj\Debug\net6.0-windows\VP_FirstEX.Form1.resources
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\obj\Debug\net6.0-windows\VP_FirstEX.csproj.GenerateResource.cache
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\obj\Debug\net6.0-windows\VP_FirstEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\obj\Debug\net6.0-windows\VP_FirstEX.AssemblyInfoInputs.cache
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\obj\Debug\net6.0-windows\VP_FirstEX.AssemblyInfo.cs
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\obj\Debug\net6.0-windows\VP_FirstEX.csproj.CoreCompileInputs.cache
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\obj\Debug\net6.0-windows\VP_FirstEX.dll
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\obj\Debug\net6.0-windows\refint\VP_FirstEX.dll
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\obj\Debug\net6.0-windows\VP_FirstEX.pdb
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\obj\Debug\net6.0-windows\VP_FirstEX.genruntimeconfig.cache
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\obj\Debug\net6.0-windows\ref\VP_FirstEX.dll
+C:\Visual Programming\VP_FirstEX\VP_FirstEX\obj\Debug\net6.0-windows\VP_FirstEX.Properties.Resources.resources
